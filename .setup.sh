@@ -1,6 +1,6 @@
-sudo yum update -y
-sudo yum install git -y
-git clone https://github.com/mikesosa/whatsapp-api.git
+# sudo yum update -y
+# sudo yum install git -y
+# git clone https://github.com/mikesosa/whatsapp-api.git
 
 
 # Install Docker
